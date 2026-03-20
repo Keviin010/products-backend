@@ -1,6 +1,6 @@
 # products-backend
 
-> ⚠️ Proyecto en construcción — conectado al frontend en React.
+> Proyecto en construcción — conectado al frontend en React.
 
 REST API en Spring Boot + MySQL para gestión de productos (CRUD).
 
