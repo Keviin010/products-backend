@@ -54,4 +54,4 @@ Repositorio del frontend en React: [react-products](https://github.com/Keviin010
 
 ## Autor
 
-Kevin — [@Keviin010](https://github.com/Keviin010) · [LinkedIn](https://www.linkedin.com/in/kevin-royo-09a427216/)
+Kevin Royo — [@Keviin010](https://github.com/Keviin010) · [LinkedIn](https://www.linkedin.com/in/kevin-royo-09a427216/)
